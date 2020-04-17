@@ -6,3 +6,4 @@
 
 # Day 3
 - [How Slack Works](https://www.youtube.com/watch?v=WE9c9AZe-DY)
+- [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
