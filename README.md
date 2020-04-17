@@ -3,3 +3,6 @@
 
 # Day 2
 - [Sharding Pinterest: How we scaled our MySQL fleet](https://medium.com/pinterest-engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
+
+# Day 3
+- [How Slack Works](https://www.youtube.com/watch?v=WE9c9AZe-DY)
